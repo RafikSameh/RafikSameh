@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafik Sameh
 
-<!--
-**RafikSameh/RafikSameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Machine Learning & AI Engineer | Embedded Systems | Software Development
 
-Here are some ideas to get you started:
+I'm an ML/AI engineer with a strong background in software engineering. My expertise spans developing sophisticated machine learning algorithms, building preprocessing pipelines for data analysis, and creating neural network models for various applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills & Expertise
+
+#### AI & Machine Learning
+- Deep Learning model development (CNN, RNN, Transformers)
+- Natural Language Processing (NLP)
+- Computer Vision & Image Processing
+- Classification, Regression, and Clustering algorithms
+- Data preprocessing and feature engineering
+
+#### Programming Languages
+- Python
+- C/C++
+- HTML
+
+#### Frameworks & Libraries
+- PyTorch
+- TensorFlow
+- FastAPI
+- Flask
+- Django
+
+#### Cloud & DevOps
+- Azure AI services
+
+---
+
+### 🔭 What I Work On
+
+I specialize in building end-to-end ML/AI solutions that solve real-world problems. My projects typically involve:
+
+- Developing custom neural network architectures
+- Building robust data processing pipelines
+- Creating efficient APIs and web interfaces for ML models
+- Integrating ML capabilities with embedded systems
